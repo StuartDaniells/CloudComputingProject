@@ -1,0 +1,6 @@
+.placement_nav{
+    display: inline-grid;
+    position: fixed;
+    top: 0;
+    right: 0;
+}

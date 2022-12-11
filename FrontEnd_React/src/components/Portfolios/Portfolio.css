@@ -1,0 +1,11 @@
+.card-item .card{
+    background: white;
+}
+
+.card-item .card-title{
+    height: auto !important;
+}
+
+.portfolio-container{
+    margin-top: 150px !important;
+}

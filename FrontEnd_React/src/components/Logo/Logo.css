@@ -1,0 +1,12 @@
+.Tilt {
+    background: linear-gradient(to right, rgb(217, 90, 155), rgb(228, 31, 200));
+}
+
+.placement_logo{
+    height: 11vh;
+    width: 9vw;
+    display: inline-grid;
+    position: fixed;
+    top: 3vh;
+    left: 0;
+}
